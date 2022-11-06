@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Vista\\Vista.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Datos\\Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Datos\\Datos.csproj",
+        "projectName": "Datos",
+        "projectPath": "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Datos\\Datos.csproj",
+        "packagesPath": "C:\\Users\\aleeh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aleeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\aleeh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aleeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Vista\\Vista.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Vista\\Vista.csproj",
+        "projectName": "Vista",
+        "projectPath": "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Vista\\Vista.csproj",
+        "packagesPath": "C:\\Users\\aleeh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Vista\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aleeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Datos\\Datos.csproj": {
+                "projectPath": "C:\\Users\\aleeh\\OneDrive\\Documentos\\Unidad2_Examen\\Examen_IIUnidad\\Examen_IIUnidad\\Datos\\Datos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Syncfusion.Tools.Windows": {
+              "target": "Package",
+              "version": "[20.3.0.52, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
